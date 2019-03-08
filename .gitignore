@@ -1,0 +1,7 @@
+.vscode
+.idea
+
+node_modules
+
+# db Connection Setting file
+db.js
